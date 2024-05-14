@@ -1,0 +1,14 @@
+node_modules/
+temp/
+encoding_options.json
+out.json
+*.png
+*.mov
+*.mp4
+*.webm
+*.avi
+*.flv
+*.wmv
+*.mkv
+*.m4v
+*.yuv
